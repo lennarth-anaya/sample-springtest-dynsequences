@@ -1,3 +1,9 @@
+# Before reading
+
+My colleague Aldo Valdez found this more performant and simple solution (that could also be implemented with a DBMS) with Elastic Search:
+
+https://www.lovelysystems.com/blog/es-iid-generator/
+
 # sample-springtest-dynsequences
 
 This sample project exemplifies a couple of things:
